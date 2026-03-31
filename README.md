@@ -25,10 +25,11 @@ I am a **Senior Full Stack Developer** and **Infrastructure Enthusiast** based i
 
 ---
 
-### 🚀 Featured Platforms
+### 🚀 Featured Platforms & Projects
 
-* **[Sochea Official](https://socheaofficial.com)** – Personal portfolio and technical insights.
+* **[Chhin Taing](https://chhintaing.com)** – Specialized digital solutions and web services.
 * **[Khmer Finder](https://platform.khmerfinder.app)** – A comprehensive digital ecosystem for local discovery.
+* **[Sochea Official](https://socheaofficial.com)** – Personal portfolio and technical insights.
 
 ---
 
@@ -41,9 +42,8 @@ I am a **Senior Full Stack Developer** and **Infrastructure Enthusiast** based i
 
 ### 📫 Get in Touch
 
-* **Website:** [socheaofficial.com](https://socheaofficial.com)
+* **Websites:** [chhintaing.com](https://chhintaing.com) | [socheaofficial.com](https://socheaofficial.com)
 * **Email:** [nhemsocheatakh@gmail.com](mailto:nhemsocheatakh@gmail.com)
-* **LinkedIn:** [Your Profile Link Here]
 
 ---
 

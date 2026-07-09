@@ -214,21 +214,21 @@ Personal portfolio featuring technical blogs, open-source projects, cloud infras
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nhemsocheatakh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=socheadev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhemsocheatakh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nhemsocheatakh&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socheadev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhemsocheatakh&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=socheadev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=socheadev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -238,7 +238,7 @@ Personal portfolio featuring technical blogs, open-source projects, cloud infras
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nhemsocheatakh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=socheadev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -248,11 +248,11 @@ Personal portfolio featuring technical blogs, open-source projects, cloud infras
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nhemsocheatakh&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=socheadev&style=for-the-badge&color=2563EB"/>
 
-<img src="https://img.shields.io/github/stars/nhemsocheatakh?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/socheadev?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/nhemsocheatakh?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/socheadev?style=for-the-badge"/>
 
 </p>
 

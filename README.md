@@ -42,7 +42,7 @@ I am a **Senior Full Stack Developer** and **Infrastructure Enthusiast** based i
 
 ### 📫 Get in Touch
 
-* **Websites:** [chhintaing.com](https://chhintaing.com) | [socheaofficial.com](https://socheaofficial.com)
+* **Websites:** [socheaofficial.com](https://socheaofficial.com)
 * **Email:** [nhemsocheatakh@gmail.com](mailto:nhemsocheatakh@gmail.com)
 
 ---

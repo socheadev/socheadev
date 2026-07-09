@@ -21,7 +21,7 @@ Building scalable software, cloud-native infrastructure, AI solutions, and self-
 <img src="https://img.shields.io/badge/LinkedIn-Sochea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nhemsocheatakh">
+<a href="https://github.com/socheadev">
 <img src="https://img.shields.io/github/followers/nhemsocheatakh?label=Follow&style=for-the-badge"/>
 </a>
 

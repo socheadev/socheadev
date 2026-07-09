@@ -125,6 +125,44 @@ A social platform designed for Cambodian communities featuring social feeds, mar
 
 🔗 https://khmerr.com
 
+# 🌐 Khmerr Ecosystem
+
+<p align="center">
+
+<a href="https://khmerr.com">
+<img src="https://img.shields.io/badge/🌍_Khmerr-Main_Website-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://platform.khmerr.com">
+<img src="https://img.shields.io/badge/📱_Platform-Social_Platform-5865F2?style=for-the-badge"/>
+</a>
+
+<a href="https://ai.khmerr.com">
+<img src="https://img.shields.io/badge/🤖_AI-LLM_&_AI_Agents-success?style=for-the-badge"/>
+</a>
+
+<a href="http://chat.khmerr.com">
+<img src="https://img.shields.io/badge/💬_Chat-Real_Time_Messaging-blueviolet?style=for-the-badge"/>
+</a>
+
+<a href="https://hr.khmerr.com">
+<img src="https://img.shields.io/badge/👥_HR-Human_Resources-orange?style=for-the-badge"/>
+</a>
+
+<a href="https://store.khmerr.com">
+<img src="https://img.shields.io/badge/🏪_Store-Business_Management-green?style=for-the-badge"/>
+</a>
+
+<a href="https://invoice.khmerr.com">
+<img src="https://img.shields.io/badge/🧾_Invoice-Billing_System-red?style=for-the-badge"/>
+</a>
+
+<a href="https://games.khmerr.com">
+<img src="https://img.shields.io/badge/🎮_Games-Multiplayer_Gaming-purple?style=for-the-badge"/>
+</a>
+
+</p>
+
 ---
 
 ## 🍽️ Chhin Taing

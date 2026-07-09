@@ -1,50 +1,220 @@
-# 👋 Hello, I'm Sochea Dev
+<div align="center">
 
-I am a **Senior Full Stack Developer** and **Infrastructure Enthusiast** based in Cambodia. I specialize in building high-performance web and mobile applications, integrating AI solutions, and managing robust self-hosted environments.
+# 👋 Hi, I'm Sochea Dev
 
----
+### 🚀 Senior Full Stack Developer • DevOps Engineer • AI Engineer
 
-### 🛠 Tech Stack
+<p>
+Building scalable applications, cloud infrastructure, AI solutions, and self-hosted platforms from Cambodia 🇰🇭
+</p>
 
-#### **Languages & Backend**
-* **Languages:** Go, Python, Node.js (NestJS), PHP, Java
-* **Frameworks:** Next.js, Vue.js, React.js
-* **Databases:** PostgreSQL, MongoDB, Redis
+<p>
+<a href="https://socheaofficial.com"><img src="https://img.shields.io/badge/Website-socheaofficial.com-blue?style=for-the-badge&logo=google-chrome"></a>
+<a href="mailto:nhemsocheatakh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/socheaofficial"><img src="https://img.shields.io/badge/LinkedIn-Sochea-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
-#### **Mobile Development**
-* **Cross-Platform:** Flutter, React Native
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AI+Engineer+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Building+Scalable+Platforms;Self-Hosting+Enthusiast" />
 
-#### **AI & Machine Learning**
-* **Focus:** Large Language Models (LLMs), AI Agents, RAG
-* **Tools:** Ollama, AnythingLLM, PyTorch/TensorFlow
-
-#### **Cloud & DevOps**
-* **Platforms:** Google Cloud, AWS, Cloudflare (Workers, Tunnels, R2)
-* **Self-Hosting:** Proxmox, Coolify, Dokploy, Docker
-* **Security:** SSL management, DNS configuration, and Tunneling
+</div>
 
 ---
 
-### 🚀 Featured Platforms & Projects
+# 💫 About Me
 
-* **[Chhin Taing](https://chhintaing.com)** – Specialized digital solutions and web services.
-* **[Khmer Finder](https://platform.khmerfinder.app)** – A comprehensive digital ecosystem for local discovery.
-* **[Sochea Official](https://socheaofficial.com)** – Personal portfolio and technical insights.
+I'm a **Senior Full Stack Developer** passionate about designing scalable software, modern cloud infrastructure, and AI-powered applications.
 
----
+My work spans from frontend experiences to backend architecture, infrastructure automation, Kubernetes, self-hosted platforms, and Large Language Models.
 
-### 📊 GitHub Activity
+### Currently focusing on
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhemsocheatakh&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhemsocheatakh&layout=compact&theme=dracula)
-
----
-
-### 📫 Get in Touch
-
-* **Websites:** [socheaofficial.com](https://socheaofficial.com)
-* **Email:** [nhemsocheatakh@gmail.com](mailto:nhemsocheatakh@gmail.com)
+- 🤖 AI Agents & LLM Applications
+- 🧠 Retrieval Augmented Generation (RAG)
+- ☁️ Cloud Infrastructure
+- 🐳 Docker & Self Hosting
+- ⚡ High Performance APIs
+- 📱 Cross-platform Mobile Apps
+- 🔐 Authentication & Security
+- 🚀 DevOps Automation
 
 ---
 
-> "Architecting scalable solutions from the metal up—whether it's self-hosting private LLMs or deploying global cloud infrastructures."
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,php,java,typescript,javascript,dart" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,express,fastapi,laravel,spring" />
+</p>
+
+## Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" />
+</p>
+
+**Working with**
+
+- Ollama
+- AnythingLLM
+- OpenAI API
+- DeepSeek
+- LangChain
+- LlamaIndex
+- Qdrant
+- Pinecone
+- RAG
+- AI Agents
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,linux,ubuntu,nginx,git,github,githubactions,bash" />
+</p>
+
+### Infrastructure
+
+- Docker
+- Docker Compose
+- Proxmox
+- Coolify
+- Dokploy
+- Cloudflare Tunnel
+- Cloudflare R2
+- Cloudflare Workers
+- Reverse Proxy
+- SSL Automation
+- DNS Management
+- CI/CD
+- Monitoring
+- VPS Management
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Khmer Platform
+
+A social platform designed for Cambodian communities featuring social feeds, marketplace, messaging, communities, and local businesses.
+
+🔗 https://khmerr.com
+
+---
+
+## 🍽️ Chhin Taing
+
+Digital platform providing catering services, online booking, and business management.
+
+🔗 https://chhintaing.com
+
+---
+
+## 👨‍💻 Sochea Official
+
+Personal portfolio showcasing projects, technical blogs, and open-source contributions.
+
+🔗 https://socheaofficial.com
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nhemsocheatakh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhemsocheatakh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nhemsocheatakh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhemsocheatakh&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nhemsocheatakh&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nhemsocheatakh&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://socheaofficial.com">
+<img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="mailto:nhemsocheatakh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/socheaofficial/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/nhemsocheatakh">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"Building scalable software, intelligent AI systems, and reliable cloud infrastructure that empower businesses."**
+
+⭐ If you like my work, consider following me or starring my repositories.
+
+</div>
